@@ -20,6 +20,7 @@ const validAddresses = [
   "1103", "1104", "1105", "1106", "1107", "1108", "1109", "1111", "1112", "1201", "1202", "1203", "1204", "1205", "1206"
 ];
 
+// Image paste and OCR
 async function handlePaste() {
   try {
     const clipboardItems = await navigator.clipboard.read();
@@ -63,57 +64,4 @@ async function handlePaste() {
       }
     }
   } catch (err) {
-    alert("⚠️ Unable to read from clipboard. Make sure you've copied an image.");
-  }
-}
-
-function filterFines() {
-  const input = document.getElementById("fineSearch").value.toLowerCase();
-  const options = document.getElementById("fineList").options;
-  for (let i = 0; i < options.length; i++) {
-    const text = options[i].text.toLowerCase();
-    options[i].style.display = text.includes(input) ? "block" : "none";
-  }
-}
-
-function generateStatement() {
-  const selectedFines = Array.from(document.getElementById("fineList").selectedOptions)
-    .map(opt => opt.text).join(", ") || "No fine reasons selected";
-
-  const statement = `
-POLICE REPORT
-
-Display Name: ${display.value || "N/A"}
-Username: ${username.value || "N/A"}
-ID Number: ${date.value || "N/A"}
-Address: ${address.value || "N/A"}
-
-Fine Reasons: ${selectedFines}
-
-Description:
-[Type your incident description below this line]
---------------------------------------------------
-`;
-
-  document.getElementById("statementOutput").value = statement.trim();
-}
-
-// Load fines from full_fines_detailed.csv on startup
-window.addEventListener('DOMContentLoaded', () => {
-  fetch('full_fines_detailed.csv')
-    .then(res => res.text())
-    .then(csv => {
-      const lines = csv.split('\n').slice(1).filter(Boolean); // Skip header
-      const fineList = document.getElementById('fineList');
-      fineList.innerHTML = '';
-
-      lines.forEach(line => {
-        const [law, desc, level, amount, points] = line.split(',');
-        const optionText = `${law} – ${desc} ($${amount}, ${points.trim()} points)`;
-        const opt = document.createElement('option');
-        opt.textContent = optionText;
-        fineList.appendChild(opt);
-      });
-    })
-    .catch(err => console.error("Failed to load fines CSV:", err));
-});
+    alert("⚠️ Unable to read from clipboard. Make sure you've copied an imag

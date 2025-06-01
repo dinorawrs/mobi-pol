@@ -1,60 +1,72 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>ID Extractor</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MobiPol Police Statement</title>
+  <script src="https://cdn.jsdelivr.net/npm/tesseract.js@4"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
   <style>
     body {
       font-family: Arial, sans-serif;
       padding: 20px;
       background: #f4f4f4;
     }
+    h2 {
+      margin-top: 30px;
+    }
     button {
       padding: 10px 20px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    input, select, textarea {
+      width: 100%;
+      padding: 8px;
       font-size: 16px;
       margin-bottom: 10px;
-      cursor: pointer;
+      border: 1px solid #ccc;
     }
     img {
       max-width: 100%;
+      margin-top: 10px;
+      margin-bottom: 10px;
       display: none;
-      margin-bottom: 10px;
-    }
-    input {
-      width: 100%;
-      padding: 8px;
-      margin-bottom: 10px;
-      border: 1px solid #ccc;
-      font-size: 16px;
     }
   </style>
 </head>
 <body>
 
-  <h2>Paste ID Image from Clipboard</h2>
+  <h1>MobiPol Police Report System</h1>
+
+  <h2>Paste ID Image</h2>
   <button onclick="handlePaste()">📋 Paste Image</button>
   <img id="preview" />
 
-  <form>
-    <label>Display Name:</label>
-    <input id="display">
-    <label>Username:</label>
-    <input id="username">
-    <label>ID No.:</label>
-    <input id="date">
-    <label>Address:</label>
-    <input id="address">
-  </form>
-<h2>Issue Fine</h2>
-<input type="text" id="fineSearch" placeholder="Search fines..." onkeyup="filterFines()" />
-<select id="fineList" multiple style="width: 100%; height: 150px; margin-top: 5px;"></select>
+  <label>Display Name:</label>
+  <input id="display" placeholder="@username">
 
-<!-- Police Statement Generator -->
-<h2 style="margin-top: 30px;">Generate Police Statement</h2>
-<button onclick="generateStatement()">📄 Generate Statement</button>
-<textarea id="statementOutput" placeholder="Your police statement will appear here..." style="width: 100%; height: 200px; margin-top: 10px;"></textarea>
+  <label>Username:</label>
+  <input id="username" placeholder="username">
 
-  <script src="https://cdn.jsdelivr.net/npm/tesseract.js@4"></script>
+  <label>ID Number:</label>
+  <input id="date" placeholder="11012025">
+
+  <label>Address:</label>
+  <input id="address" placeholder="1234 GIBSON LANE">
+
+  <h2>Issue Fine</h2>
+  <input type="text" id="fineSearch" placeholder="Search fines..." onkeyup="filterFines()" />
+  <select id="fineList" multiple style="height: 150px;"></select>
+
+  <h2>Generate Police Statement</h2>
+  <button onclick="generateStatement()">📝 Generate Statement</button>
+  <textarea id="statementOutput" placeholder="Your police statement will appear here..." rows="10"></textarea>
+
+  <button onclick="exportPDF()">📄 Export as PDF</button>
+
   <script src="script.js"></script>
-	
 </body>
 </html>

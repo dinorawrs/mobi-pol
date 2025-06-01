@@ -1,0 +1,1693 @@
+Law,Description,Fine Level,Fine Amount,Demerit Points
+Rule 27 (1),Not turn left from far left side of road,4,272,2
+Rule 28 (1),Not turn left from multi-lane road from within left lane,4,272,2
+Rule 28 (1A),Not turn left from slip lane from multi-lane road,4,272,2
+Rule 29,Turn left contrary to turn line,4,272,2
+Rule 31 (1)&(2),Not turn right from left of line/strip correctly,4,272,2
+Rule 31 (1)&(3),Not turn right from left of centre of road correctly,4,272,2
+Rule 31 (1)&(4),Not turn right from far right side of one-way road,4,272,2
+Rule 32 (1),Not turn right from far multi-lane road from within right lane,4,272,2
+Rule 33 (1)&(2),Turn right contrary to road marking,4,272,2
+Rule 33 (1)&(3),Not turn right near to right of centre of intersection,4,272,2
+Rule 37 (a),Begin U-turn without view of approaching traffic*,4,272,2
+Rule 37 (b),Driver not safely begin U-turn without obstructing traffic*,4,272,2
+Rule 38,Make U-turn without giving way to vehicle/pedestrian*,5,349,3
+Rule 39 (1),Make U-turn at break in dividing strip contrary to sign*,4,272,2
+Rule 39 (2),Make U-turn on length of road contrary to sign*,4,272,2
+Rule 40,Make U-turn at intersection with traffic lights*,4,272,2
+Rule 41,Make U-turn at intersection (no lights) contrary to sign*,4,272,2
+Rule 42 (a),Not start U-turn in lane in nearest dividing line/median strip*,4,272,2
+Rule 42 (b),Not start U-turn from left of centre of road*,4,272,2
+Rule 46 (1),Not give left change of direction signal with lights,3,194,2
+Rule 46 (1)&(2),Not give sufficient left change of direction signal,3,194,2
+Rule 46 (1)&(3),Give left change of direction signal (less than 5 seconds),3,194,2
+Rule 46 (4),"Not stop left change of direction signal after change
+3
+$194
+Rule 48 (1)
+Not give right change of direction signal with lights",3,194,2
+Rule 48 (1)&(2),Not give sufficient right change of direction signal,3,194,2
+Rule 48 (1)&(3),Give right change of direction signal (less than 5 seconds),3,194,2
+Rule 48 (4),"Not stop right change of direction signal after change
+3
+$194
+Rule 51
+Operate indicator light contrary to permitted use
+3
+$194
+Rule 53 (1) 
+Not give stop signal with brake lights/signal/device",3,194,2
+Rule 53 (2),Not give sufficient warning of stopping,3,194,2
+Rule 53 (3),Not give stop signal when slowing suddenly,3,194,2
+Rule 56 (1)(a),Not stop at stop line at red light*,6,464,3
+Rule 56 (1)(a),"Not stop at stop line at red light - toll booth
+3
+$194
+Rule 56 (1)(b)
+Not stop before stop sign at red light*",6,464,3
+Rule 56 (1)(b),"Not stop before stop sign at red light - toll booth
+3
+$194
+Rule 56 (1)(c)
+Not stop before lights at red light*",6,464,3
+Rule 56 (1)(c),"Not stop before lights at red light - toll booth
+3
+$194
+Rule 56 (2)(a)
+Not stop at stop line at red arrow*",6,464,3
+Rule 56 (2)(b),Not stop before stop sign at red arrow*,6,464,3
+Rule 56 (2)(c),Not stop before lights at red arrow*,6,464,3
+Rule 57 (1)(a),Not stop at stop line at yellow light*,6,464,3
+Rule 57 (1)(b),Not stop before traffic lights at yellow light*,6,464,3
+Rule 57 (1)(c) ,Not stop before intersection at yellow light*,6,464,3
+Rule 57 (2)(a),Not stop at stop line at yellow arrow*,6,464,3
+Rule 57 (2)(b),Not stop before traffic lights at yellow arrow*,6,464,3
+Rule 57 (2)(c),Not stop before intersection at yellow arrow*,6,464,3
+Rule 57 (3),Not leave intersection safely after yellow arrow*,6,464,3
+Rule 59 (1),Proceed through red traffic light*,6,464,3
+Rule 59 (1),Proceed through red traffic light (camera detected)*,6,464,3
+Rule 59 (1),"Proceed through red traffic light - toll booth
+3
+$194
+Rule 60
+Proceed through red traffic arrow*",6,464,3
+Rule 60A (1),Motor vehicle enter bicycle storage area showing red light*,6,464,3
+Rule 60A (2),Motor vehicle enter bicycle storage area showing red arrow*,6,464,3
+Rule 61 (2),Proceed after light change while stopped*,6,464,3
+Rule 61 (5),Not leave intersection after light/arrow goes yellow/red*,6,464,3
+Rule 62 (1)(a),Not give way at lights to pedestrian on road*,5,349,3
+Rule 62 (1)(b)(i),Not give way at lights to other vehicle (left turn)*,5,349,3
+Rule 62 (1)(b)(ii),Not give way at lights to other pedestrian (left turn)*,5,349,3
+Rule 62 (1)(c),Not give way at lights to oncoming vehicle (right  turn)*,5,349,3
+Rule 63 (2),Not stop at traffic lights - stop sign*,5,349,3
+Rule 63 (2),Not give way to vehicle at traffic light - stop sign*,5,349,3
+Rule 63 (2),Not give way to pedestrian at traffic light - stop sign*,5,349,3
+Rule 63 (3),Not give way to vehicle (left turn from slip lane)*,5,349,3
+Rule 63 (3),Not give way to pedestrian (left turn from slip lane)*,5,349,3
+Rule 63 (3),Not give way to vehicle (right turn)*,5,349,3
+Rule 63 (3),Not give way to oncoming vehicle (right turn)*,5,349,3
+Rule 63 (3),Not give way to pedestrian (right turn)*,5,349,3
+Rule 63 (3),Not give way at intersection to vehicle on right*,5,349,3
+Rule 63 (3) ,Not give way to vehicle - left turn*,5,349,3
+Rule 63 (3),Not give way to vehicle at T-Intersection*,5,349,3
+Rule 63 (3),Not give way to pedestrian at T-Intersection*,5,349,3
+Rule 63 (3),Not give way to vehicle at T-Intersection (slip lane)*,5,349,3
+Rule 63 (3),Not give way to pedestrian at T-Intersection (slip lane)*,5,349,3
+Rule 63 (3),Not give way to vehicle (right turn at terminating road),5,349,3
+Rule 63 (3),Not give way to pedestrian (right turn at terminating road),5,349,3
+Rule 63 (3),Not give way to pedestrian at T-Intersection (left turn)*,5,349,3
+Rule 63 (3),Not give way to vehicle - slip lane at terminating road*,5,349,3
+Rule 63 (3),Not give way to pedestrian - slip lane at terminating road*,5,349,3
+Rule 64 (a),Not give way to vehicle (flashing yellow arrow)*,5,349,3
+Rule 64 (b),Not give way to pedestrian (flashing yellow arrow)*,6,464,3
+Rule 64 (c),Not give way to oncoming vehicle (flashing yellow arrow)*,5,349,3
+Rule 65 (2)(a),Not give way to pedestrian - (flashing yellow light)*,5,349,3
+Rule 65 (2)(b),Obstruct pedestrian - (flashing yellow light)*,5,349,3
+Rule 65 (2)(c),Overtake/pass vehicle - (flashing yellow light)*,6,464,3
+Rule 66 (1),Not stop before lights (twin red lights),6,464,3
+Rule 66 (1),Not stop before stop line (twin red lights),6,464,3
+Rule 66 (4),Proceed after stopping at twin red lights,6,464,3
+Rule 67 (1),Not stop at stop line - intersection with no lights*,5,349,3
+Rule 67 (1),Not give way to vehicle - intersection with no lights*,5,349,3
+Rule 67 (1),Not give way to pedestrian - intersection with no lights*,5,349,3
+Rule 68 (1),Not stop at/before stop line/stop sign*,5,349,3
+Rule 68 (1),Not give way to vehicle/pedestrian (stop sign)*,5,349,3
+Rule 69 (1),Not give way to vehicle (give way sign/line)*,5,349,3
+Rule 69 (1),Not give way at pedestrian (give way sign/line)*,5,349,3
+Rule 70,Disobey give way sign on bridge/narrow road*,5,349,3
+Rule 71 (1),Not give way to vehicle/pedestrian (give way sign/line)*,5,349,3
+Rule 72 (1),Not give way to vehicle on right (travelling straight-unmarked intersection),5,349,3
+Rule 72 (1),Not give way to vehicle (left turn-unmarked intersection),5,349,3
+Rule 72 (1),Not give way to pedestrian (left turn-unmarked intersection),5,349,3
+Rule 72 (1),Not give way to vehicle (slip turn-unmarked intersection),5,349,3
+Rule 72 (1),Not give way to pedestrian (slip turn-unmarked intersection),5,349,3
+Rule 72 (1),Not give way to vehicle on right (right turn-unmarked intersection),5,349,3
+Rule 72 (1),Not give way to oncoming vehicle,5,349,3
+Rule 72 (1),Not give way to pedestrian,5,349,3
+Rule 73 (1),Not give way to vehicle - turn from terminating road,5,349,3
+Rule 73 (1),Not give way to pedestrian - turn from terminating road,5,349,3
+Rule 73 (1),Not give way to vehicle - left turn from slip lane,5,349,3
+Rule 73 (1),Not give way to pedestrian - left turn from slip lane,5,349,3
+Rule 73 (1),Not give way to pedestrian - left turn into terminating road,5,349,3
+Rule 73 (1),Not give way to vehicle - slip turn into terminating road from slip lane,5,349,3
+Rule 73 (1),Not give way to pedestrian - slip turn into terminating road,5,349,3
+Rule 73 (1),Not give way to vehicle - right turn into terminating road,5,349,3
+Rule 73 (1),Not give way to pedestrian - right turn into terminating road,5,349,3
+Rule 74 (1)(a),Leave road related area/adjacent land-not give way to vehicle on road,5,349,3
+Rule 74 (1)(b),Leave road related area/adjacent land-not give way to pedestrian on road,5,349,3
+Rule 74 (1)(c),Leave road related area/adjacent land-not give way to pedestrian/vehicle,5,349,3
+Rule 74 (1)(d)(i),Not give way to pedestrian on area when leaving,5,349,3
+Rule 74 (1)(d)(ii),Not give way to vehicle on area when leaving,5,349,3
+Rule 75 (1)(a),Enter area/land-not give way to pedestrian on road,5,349,3
+Rule 75 (1)(b),Not give way on area when entering,5,349,3
+Rule 75 (1)(c),Not give way to vehicle-right turn into area/land,5,349,3
+Rule 75 (1)(d),Not give way to vehicle-enter area/land at T-Intersection,5,349,3
+Rule 76 (1),Drive into path of approaching tram,5,349,3
+Rule 76 (2),Not move out of path of approaching tram,5,349,3
+Rule 77 (1),Driver in left lane/traffic line not give way to bus,5,349,3
+Rule 78 (1),Move into path of police or emergency vehicle,6,464,3
+Rule 78 (2),Not move out of path of police/emergency vehicle,6,464,3
+Rule 78-1 (1),Fail to give way to person near stationary emergency response vehicle,6,464,3
+Rule 78-1 (2)(a),Drive past stationary emergency response vehicle - speed limit less than 80 km/h,6,464,3
+Rule 78-1 (2)(b),Drive past stationary emergency response vehicle - speed equal to/exceeds 80 km/h,6,464,3
+Rule 78-1 (3),Increase speed when passing stationary emergency response vehicle,6,464,3
+Rule 79 (1),Not give way to police/emergency vehicle,6,464,3
+Rule 79-1 (a),"Interfere/interrupt passage of funeral cortege/procession
+2
+$116
+Rule 79-1 (b)
+Interfere/interrupt vehicle in funeral cortege/procession
+2
+$116
+Rule 79-2
+At ferry/punt/bridge/railway crossing not wait at left end of line
+2
+$116
+CROSSINGS & SHARED ZONES
+Rule 80 (1)
+Approach children’s crossing too quickly to stop safely*",6,464,3
+Rule 80 (2)(a),Disobey hand-held stop sign at children’s crossing*,6,464,3
+Rule 80 (2)(b),Not stop at children’s crossing-pedestrian on crossing*,6,464,3
+Rule 80 (3)(a),Proceed at children’s crossing while sign shown*,6,464,3
+Rule 80 (3)(b),Proceed at children’s crossing contrary to directions*,6,464,3
+Rule 80 (4),Proceed at children’s crossing-pedestrian at crossing*,6,464,3
+Rule 81 (1),Approach pedestrian crossing too quickly to stop safely*,6,464,3
+Rule 81 (2),Not give way to pedestrian on pedestrian crossing*,6,464,3
+Rule 82,Pass/overtake vehicle at pedestrian/children’s crossing*,6,464,3
+Rule 83,Not give way to pedestrian in shared zone,6,464,3
+Rule 84 (1)(a),Not give way to tram (drive through dividing strip break),5,349,3
+Rule 84 (1)(b),Not give way to vehicle (drive through dividing strip break),5,349,3
+Rule 85 (a) ,Not give way to vehicle in turning lane,5,349,3
+Rule 85 (b),Not give way to vehicle entering turning lane (to right),5,349,3
+Rule 85 (c) ,Not give way to vehicle entering turning lane (to left),5,349,3
+Rule 86 (1),Not give way to vehicle (median turning bay),5,349,3
+Rule 87 (1),Not give way to vehicle (enter road from side/shoulder),5,349,3
+Rule 87 (3),Not give way to vehicle (enter road from parking area),5,349,3
+Rule 88 (1),Disobey left turn only sign,4,272,2
+Rule 88 (2),Disobey left lane must turn left sign,4,272,2
+Rule 89 (1),Disobey right turn only sign,4,272,2
+Rule 89 (2),Disobey right lane must turn right sign,4,272,2
+Rule 90,Disobey no turns sign,4,272,2
+Rule 91 (1),Disobey no left turn sign,4,272,2
+Rule 91 (2),Disobey not right turn sign,4,272,2
+Rule 92 (1),Drive contrary to direction of traffic lane arrow,4,272,2
+Rule 93 (1)(a),Pass vehicle contrary to no overtaking or passing sign,4,272,2
+Rule 93 (1)(b),Overtake vehicle contrary to no overtaking or passing sign,4,272,2
+Rule 94,Disobey no overtaking on bridge sign,4,272,2
+Rule 95 (1),Drive in emergency stopping lane,4,272,2
+Rule 96 (1),Stop on area marked with keep clear marking,4,272,2
+Rule 97 (1),Disobey road access sign,4,272,2
+Rule 98 (1),Disobey one-way sign,4,272,2
+Rule 99 (1),Disobey keep left sign,4,272,2
+Rule 99 (2),Disobey keep right sign,4,272,2
+Rule 100,Disobey no entry sign,4,272,2
+Rule 101 (1),Not stop before hand-held stop sign*,5,349,3
+Rule 101 (2)(a),Proceed past hand-held stop sign while sign shown*,5,349,3
+Rule 101 (2)(b),Proceed past hand-held stop sign contrary to directions*,5,349,3
+Rule 101A,"Drive on safety ramp or arrester bed
+4
+$272
+Rule 102 (1)
+Disobey clearance/low clearance sign
+3
+$194
+Rule 102 (1)
+Proceed past clearance/low clearance sign - tunnel/bridge/structure",14,"2,400",6
+Rule 103 (1),"Disobey bridge load limit (gross mass) sign
+4
+$272
+Rule 103 (1)
+Disobey gross load limit sign
+4
+$272
+Rule 103 (2)
+Disobey bridge load limit (mass per axle group) sign
+4
+$272
+Rule 104 (1)
+Disobey no trucks sign (GVM)
+3
+$194
+Rule 104 (2)
+Disobey no trucks sign (length)
+3
+$194
+Rule 104 (3)
+Disobey no trucks sign
+3
+$194
+Rule 104 (2)
+Disobey no trucks sign (length) (where the sign is in relation to Galston Gorge)",14,"2,400",6
+Rule 105,"Disobey trucks must enter sign
+8
+$697
+Rule 106 (1)
+Disobey no buses sign (GVM)
+3
+$194
+Rule 106 (2)
+Disobey no buses sign (length)
+3
+$194
+Rule 106 (2)
+Disobey no buses sign (length)(where the sign is in relation to Galston Gorge)",14,"2,400",6
+Rule 106 (3),"Disobey no buses sign
+3
+$194
+Rule 107
+Disobey buses must enter sign
+8
+$697
+Rule 108 (1)
+Disobey trucks and buses low gear sign",5,349,3
+Rule 111 (1)&(2),"Not enter roundabout on left (leave less than halfway)
+4
+$272
+Rule 111 (1)&(3)
+Not enter roundabout on right (leave more than halfway)
+4
+$272
+Rule 111 (1)&(5)
+Not enter roundabout in direction of traffic lane arrow
+4
+$272
+Rule 112 (2)
+Before roundabout not give left change of direction signal",3,194,2
+Rule 112 (3),Not maintain left change of direction signal in roundabout,3,194,2
+Rule 113 (2) ,Before roundabout not give right change of direction signal,3,194,2
+Rule 113 (3),Not maintain right change of direction signal in roundabout,3,194,2
+Rule 114 (1)(a),Not give way to vehicle when entering roundabout,5,349,3
+Rule 114 (1)(b),Not give way to tram when entering roundabout,5,349,3
+Rule 114 (2),Not give way to tram when driving in roundabout,5,349,3
+Rule 115 (1),Not drive left of traffic island in roundabout,4,272,2
+Rule 116,"Not drive in roundabout in direction of traffic lane arrow
+4
+$272
+Rule 117 (1)
+Not give left change of direction signal in roundabout",3,194,2
+Rule 117 (2),Not give right change of direction signal in roundabout,3,194,2
+Rule 118 (1),Not give left change of direction signal (exit roundabout),3,194,2
+Rule 118 (2),"Not stop left change of direction signal (exit roundabout)
+3
+$194
+LEVEL CROSSINGS
+Rule 121 (a)
+Not stop at stop line/sign at level crossing",6,464,3
+Rule 121 (b),Not give way to train/tram at level crossing with stop sign,6,464,3
+Rule 122,Disobey give way sign/line at level crossing,6,464,3
+Rule 123 (a),Enter level crossing contrary to lights/bells,6,464,3
+Rule 123 (b),Enter level crossing with gate/boom/barrier operating,6,464,3
+Rule 123 (c),Enter level crossing when train/tram on/entering crossing,6,464,3
+Rule 123 (d),Enter level crossing when approaching train/tram seen/heard,6,464,3
+Rule 123 (e),Enter level crossing when crossing/road beyond blocked,6,464,3
+Rule 124,Not leave level crossing when safe,6,464,3
+Rule 125 (1),"Unreasonably obstruct driver/pedestrian
+4
+$272
+Rule 126
+Drive behind other vehicle too closely to stop safely",6,464,3
+Rule 127 (1),Long vehicle not required distance from other long vehicle,6,464,3
+Rule 128,"Enter intersection when intersection/road beyond blocked
+4
+$272
+Rule 128A
+Enter blocked children's/pedestrian/marked foot crossing*",4,272,2
+Rule 129 (1),Not drive on far left side of road,4,272,2
+Rule 130 (1)(a)&(2) ,Drive in right lane on road with speed limit over 80 km/h,5,349,2
+Rule 130 (1)(b)&(2),Disobey keep left unless overtaking sign,5,349,2
+Rule 131,Not keep left of oncoming vehicle,5,349,2
+Rule 132 (1),Not keep left of centre on two-way road,5,349,2
+Rule 132 (2),Not keep left of dividing line,5,349,3
+Rule 132 (2A),Drive across dividing lines to perform U-turn,5,349,3
+Rule 135 (1),Not keep left of median strip,5,349,3
+Rule 136,Drive wrong way on one-way service road,5,349,3
+Rule 137 (1),Drive on dividing strip,4,272,2
+Rule 138 (1),Drive on/over continuous line near painted island,4,272,2
+Rule 140,Overtake vehicle when unsafe,5,349,2
+Rule 141 (1),Overtake to left of vehicle,3,194,2
+Rule 142 (1),Overtake to right of vehicle turning right/making U-turn,5,349,2
+Rule 143 (1),Disobey do not overtake turning vehicle sign (left turn),4,272,2
+Rule 143 (1A),Overtake/pass vehicle contrary to sign,4,272,2
+Rule 143 (2),Disobey do not overtake turning vehicle sign (right/U-turn),4,272,2
+Rule 144 (a),Overtake vehicle too closely,5,349,2
+Rule 144 (b),Cut in front of vehicle after overtaking,5,349,2
+Rule 144-1 (1),Fail to keep safe distance when passing bicycle,5,349,2
+Rule 145,Increase speed while being overtaken,5,349,3
+Rule 146 (1),Not drive within marked lane multi-lane road,4,272,2
+Rule 146 (2),Not drive within single line of traffic (no lines marked),4,272,2
+Rule 147,Move from marked lane to another across continuous line,4,272,2
+Rule 148 (1),Not give way (move from marked lane to another),5,349,3
+Rule 148 (2),Not give way (move from one line of traffic to another),5,349,3
+Rule 148A,Not give way (diverges left or right within marked lane),5,349,3
+Rule 149,Not give way to vehicle ahead when merging,5,349,3
+Rule 150 (1),Drive on/over continuous white edge line,4,272,2
+Rule 151 (1),"Ride motorcycle more than 2 abreast on road
+1
+$78
+Rule 151 (2)
+Ride motorcycle more than 2 abreast in marked lane
+1
+$78
+Rule 151 (4)
+Ride motorcycle more than 1.5m from another
+1
+$78
+Rule 151A (2)
+Motor bike rider unlawfully lane filter",8,697,3
+Rule 152 (1)&(2),Drive in lane (red cross on overhead device),6,464,3
+Rule 152 (1)&(3),Drive in lane (flashing red cross on overhead device),6,464,3
+Rule 153 (1),"Drive in bicycle lane
+3
+$194
+Rule 154 (1)
+Drive in bus lane",5,349,1
+Rule 155 (1),Drive in tram lane,4,272,1
+Rule 155A,Drive in a tramway,4,272,1
+Rule 156 (1),"Drive in transit lane
+4
+$272
+Rule 157 (1)
+Drive in truck lane
+5
+$349
+Rule 157-1 (1)
+Drive in a T-Way lane",5,349,1
+Rule 159 (1),Not drive in lane marked for particular vehicle,5,349,3
+Rule 160 (2),"Pass/overtake to right of tram
+2
+$116
+Rule 160 (3)
+Pass/overtake tram turning/signalling left
+2
+$116
+Rule 161 (2)
+Pass/overtake to left of tram
+2
+$116
+Rule 161 (3)
+Pass/overtake tram turning/signalling right
+2
+$116
+Rule 162 (1)(a)
+Drive on safety zone",3,194,2
+Rule 163 (1)(b),Not drive safely to left of safety zone,3,194,2
+Rule 163 (1)&(2),Drive past rear of stopped tram when pedestrian is crossing,3,194,2
+Rule 164 (1)&(2),Not give way to pedestrian near stopped tram,3,194,2
+Rule 164 (1)&(3),Proceed near stopped tram (road not clear of pedestrians),3,194,2
+Rule 164 (1)&(4),Pass/overtake stopped tram at prohibited speed,3,194,2
+Rule 164A,Drive past safety zone/stopped tram,3,194,2
+Rule 164A,Fail to give way to pedestrian crossing near stopped tram,3,194,2
+Rule 212 (1),"Enter/leave median strip parking area contrary to sign
+2
+$116
+Rule 212 (2)
+Not enter/leave median strip parking area forwards
+2
+$116
+VEHICLE SECURITY
+Rule 213 (2)
+Not restrain vehicle properly
+2
+$116
+Rule 213 (3)
+Leave engine on
+2
+$116
+Rule 213 (4)
+Not remove ignition key (vehicle unattended)
+2
+$116
+Rule 213 (5)
+Not secure windows/lock doors (vehicle unattended)
+2
+$116
+LIGHTS
+Rule 215-1 (1)
+Drive during period of darkness without prescribed lights",2,116,1
+Rule 216 (1)(a),"Tail/rear lights no on/visible (towing from front)
+2
+$116
+Rule 216 (1)(b)
+Rear lights not/visible (towing from rear)
+2
+$116
+Rule 218 (1)(a)
+Use/allow use of high-beam on vehicle in front",2,116,1
+Rule 218 (1)(b),Use/allow use of high-beam on oncoming vehicle,2,116,1
+Rule 218-1 (a),"Use fog light when not permitted
+2
+$116
+Rule 218-1 (b)
+Unlawful use of spot/search lamp
+2
+$116
+Rule 218-1 (c) 
+Unlawful use of additional headlamps
+2
+$116
+Rule 218-1 (e)
+Use other lights not as prescribed
+2
+$116
+Rule 218-1 (f)
+Use/allow use of hazard warning lights when not permitted
+2
+$116
+Rule 219
+Use/allow use of light on/in vehicle likely/to dazzle",2,116,1
+Rule 220-1 (1),"Stand vehicle/trailer not have rear light etc lighted 
+2
+$116
+Rule 221-1 (1)
+Improperly use crimson warning light on vehicle
+2
+$116
+Rule 221-2 (1) 
+Flashing warning light not on - street vending vehicle parked
+2
+$116
+Rule 221-2 (2) 
+Flashing warning light on - street vending vehicle on road
+2
+$116
+Rule 222-1 (1)
+Not use bus four-way flasher when children getting on/off
+5
+$349
+Rule 222-2 (1)
+Drive school bus without warning system attached
+3
+$194
+Rule 222-2 (2)
+Not activate flashing lights at children drop off/pick up
+3
+$194
+Rule 222-2 (3)
+Activate flashing lights of school bus when not permitted
+2
+$116
+Rule 223 (a)
+Animal-drawn vehicle-white light not fitted/visible
+1
+$78
+Rule 223 (b)
+Animal-drawn vehicle-red light not fitted/visible
+1
+$78
+Rule 223 (c)(i)
+Animal-drawn vehicle-reflector not fitted/over 1.5m
+1
+$78
+Rule 223 (c)(ii)
+Animal-drawn vehicle-reflector not fitted/visible
+1
+$78
+HORNS/WARNING DEVICES
+Rule 224
+Use/allow use of horn/warning device unnecessarily
+5
+$349
+Rule 224-1
+Driver/rider/passenger use device to make sound like a siren
+5
+$349
+WARNING TRIANGLES
+Rule 226 (1)
+Drive heavy vehicle without portable warning triangles
+2
+$116
+Rule 226 (2)
+Not produce portable warning triangles for inspection
+2
+$116
+Rule 227 (2) 
+Triangle not behind vehicle/fallen load - speed equal to/exceeds 80 km/h
+2
+$116
+Rule 227 (2)
+Triangle not beside vehicle/fallen load - speed equal to/exceeds 80 km/h
+2
+$116
+Rule 227 (2)
+Triangle not between two places on divided road - speed equal to/exceeds 80 km/h
+2
+$116
+Rule 227 (2)
+Triangle not in front of vehicle/fallen load - speed equal to/exceeds 80 km/h
+2
+$116
+Rule 227 (3)
+Triangle not behind vehicle/fallen load - speed limit less than 80 km/h
+2
+$116
+Rule 227 (3)
+Triangle not beside vehicle/fallen load - speed limit less than 80 km/h
+2
+$116
+Rule 227 (3)
+Triangle not between two places on divided road - speed limit less than 80 km/h
+2
+$116
+Rule 227 (3)
+Triangle not in front of vehicle/fallen load - speed limit less than 80 km/h
+2
+$116
+PEDESTRIANS
+Rule 228
+Travel past no pedestrians sign
+1
+$78
+Rule 229
+Disobey road access sign
+1
+$78
+Rule 230 (1)(a)
+Not cross road by shortest safe route
+1
+$78
+Rule 230 (1)(b)
+Stay on road longer than necessary to cross
+1
+$78
+Rule 231 (1)&(2)(a)
+Cross when pedestrian lights not green
+1
+$78
+Rule 231 (1)&(3)(a)
+Not cross quickly to safety area (pedestrian lights)
+1
+$78
+Rule 231 (1)&(3)(b)
+Not cross quickly to nearest side (pedestrian lights)
+1
+$78
+Rule 231 (1)&(4)
+Not stay in safety area at pedestrian lights
+1
+$78
+Rule 232 (1)
+Cross against traffic light (no pedestrian lights)
+1
+$78
+Rule 233 (1)
+Cross road before tram stops
+1
+$78
+Rule 233 (2)(a)
+Not cross by shortest safest route after getting off tram
+1
+$78
+Page 5 of 12
+ As at 1 July 2020
+ The information in this document is intended as a guide only, and is subject to change at any time without notice.
+ It does not replace the relevant legislation.
+ * Increased fines and/or demerit points apply for these offences when committed in a school zone. See school zone offences list.
+Fine level
+Fine $
+Demerit 
+points
+General driving offences
+Double 
+demerits
+Penalty
+Description
+Law
+Rule 233 (2)(b)
+Stay on road after getting off tram
+1
+$78
+Rule 234 (1)
+Pedestrian not cross part/road at crossing
+1
+$78
+Rule 234 (2)
+Stay on crossing longer than necessary
+1
+$78
+Rule 235 (1)(a)
+Not use pedestrian facility at level crossing
+1
+$78
+Rule 235 (1)(b)
+Not cross within 20m of level crossing
+1
+$78
+Rule 235 (2)(a)
+Cross level crossing contrary to warning lights/bells
+1
+$78
+Rule 235 (2)(b)
+Cross level crossing with gate/boom/barrier operating
+1
+$78
+Rule 235 (2)(c)
+Cross level crossing when tram/train on/entering crossing
+1
+$78
+Rule 235 (2)(d)
+Cross level crossing when approaching tram/train seen/heard
+1
+$78
+Rule 235 (2)(e)
+Cross level crossing when crossing/road beyond blocked
+1
+$78
+Rule 235 (2A)(a)
+Not finish crossing without delay if warning lights/bells start
+1
+$78
+Rule 235 (2A)(b)
+Not finish crossing without delay if gate/boom starts to close
+1
+$78
+Rule 235 (2A)(c)
+Not finish crossing without delay if train or tram approaches
+1
+$78
+Rule 235A (2)
+Cross if a pedestrian level crossing has red pedestrian light
+1
+$78
+Rule 235A (3)
+Not finish crossing without delay if red pedestrian light appears
+1
+$78
+Rule 236 (1)
+Pedestrian move into driver's path
+1
+$78
+Rule 236 (2)
+Pedestrian obstruct driver's/other pedestrian's path
+1
+$78
+Rule 236 (4)(a)
+Stand on/move onto road to solicit contributions etc from occupant of vehicle
+1
+$78
+Rule 236 (4)(b)
+Stand on/move onto road to hitchhike
+1
+$78
+Rule 236 (4)(c)
+Stand on/move onto road to display an advertisement
+1
+$78
+Rule 236 (4)(d)
+Stand on/move onto road to sell or offer articles for sale
+1
+$78
+Rule 236 (4)(e)
+Stand on/move onto road to wash/clean/offer to wash/clean windscreen of vehicle 
+1
+$78
+Rule 236 (5)
+Driver/passenger in/on vehicle buy/offer to buy article/service from person on road
+1
+$78
+Rule 237 (1)
+Get on/into moving vehicle
+1
+$78
+Rule 238 (1)
+Pedestrian not travel on footpath/nature strip
+1
+$78
+Rule 238 (2)(a)
+Pedestrian not keep to side of road
+1
+$78
+Rule 238 (2)(ab)
+Pedestrian travel on road not face approaching traffic
+1
+$78
+Rule 238 (2)(b)
+Travel on road beside more than 1 other pedestrian/vehicle
+1
+$78
+Rule 239 (1)
+Pedestrian on bicycle path/separated footpath
+1
+$78
+Rule 239 (3)
+Not keep out of path of bicycle/pedestrian
+1
+$78
+WHEELED DEVICES/TOYS
+Rule 240 (1)
+Use wheeled device (dividing line/median strip)
+1
+$78
+Rule 240 (1)
+Use wheeled device (multi-lane one-way road)
+1
+$78
+Rule 240 (1)
+Use wheeled toy (dividing line/median strip)
+1
+$78
+Rule 240 (1)
+Use wheeled toy (multi-lane one-way road)
+1
+$78
+Rule 240 (1)
+Use wheeled device (speed limit greater than 50 km/h)
+1
+$78
+Rule 240 (1)
+Use wheeled toy (speed limit greater than 50 km/h)
+1
+$78
+Rule 240 (2)(a)
+Use wheeled device on prohibited road
+1
+$78
+Rule 240 (2)(b)
+Use wheeled device on road at prohibited time
+1
+$78
+Rule 240 (2)(c) 
+Use propelled wheeled recreational device on road
+1
+$78
+Rule 240 (3)(a)
+Use wheeled toy on prohibited road
+1
+$78
+Rule 240 (3)(b)
+Use wheeled toy on road at prohibited time
+1
+$78
+Rule 240A
+Disobey no wheeled recreational devices/toys sign 
+1
+$78
+Rule 241 (1)(a)
+Not keep left when using wheeled device/toy
+1
+$78
+Rule 241 (1)(b)
+Travel alongside more than 1 (wheeled device/toy)
+1
+$78
+Rule 242 (1)(a)
+Not keep left of shared/path (wheeled device/toy)
+1
+$78
+Rule 242 (1)(b)
+Not give way on shared/path (wheeled device/toy)
+1
+$78
+Rule 243 (1)
+Use wheeled device on pedestrian separated path
+1
+$78
+Rule 243 (2)
+Obstruct bicycle on separated/path (wheeled device)
+1
+$78
+Rule 244 (1)
+Use wheeled recreational device/toy being towed
+1
+$78
+Rule 244 (2)
+Hold onto moving vehicle (wheeled device/toy)
+1
+$78
+Rule 244 (3)
+Use wheeled recreational device/toy within 2m of vehicle
+1
+$78
+BICYCLES
+Rule 119
+Bicycle rider on left of roundabout not give way to vehicle
+2
+$116
+Rule 141 (2)
+Cyclist pass/overtake left of left turning vehicle
+2
+$116
+Rule 151 (1)
+Ride bicycle more than 2 abreast on road
+2
+$116
+Rule 151 (2)
+Ride bicycle more than 2 abreast in marked lane
+2
+$116
+Rule 151 (4)
+Ride bicycle more than 1.5m from another
+2
+$116
+Rule 245 (a)
+Not sit astride bicycle rider's seat
+2
+$116
+Rule 245 (b)
+Not ride bicycle with hand on bars
+2
+$116
+Rule 245 (c)
+Ride bicycle in incorrect position
+2
+$116
+Rule 245-1 (1)(a)
+Ride bicycle negligently
+6
+$464
+Rule 245-1 (1)(b)
+Ride bicycle furiously
+6
+$464
+Rule 245-1 (1)(c)
+Ride bicycle recklessly
+6
+$464
+Rule 246 (1)
+Carry more persons on bicycle than permitted
+2
+$116
+Rule 246 (2)
+Passenger on bicycle not sit on passenger seat
+2
+$116
+Rule 246 (3)
+Ride bicycle with passenger not seated on passenger seat
+2
+$116
+Rule 247 (1)
+Not ride in bicycle lane
+2
+$116
+Rule 247A
+Rider not enter bicycle storage area correctly
+2
+$116
+Rule 247B (1)(a)
+Enter bicycle storage area not give way to vehicle
+2
+$116
+Rule 247B (1)(b)
+Enter bicycle storage area not give way to vehicle (lights)
+2
+$116
+Rule 247B (1)(c) 
+Enter bicycle storage area not give way to vehicle (arrows)
+2
+$116
+Rule 247B (2)
+In bicycle storage area not give way to vehicle (multi-lane)
+2
+$116
+Rule 248 (1)
+Bicycle rider cross road on children's/pedestrian crossing
+2
+$116
+Rule 248 (2)
+Bicycle rider cross road on marked foot crossing
+2
+$116
+Rule 249
+Ride bicycle on pedestrian part of separated footpath
+2
+$116
+Rule 250 (1)
+Ride bicycle on footpath (16 yrs or older)
+2
+$116
+Rule 250 (2)
+Bicycle not keep left (shared/foot path)
+2
+$116
+Rule 250 (2)(b)
+Bicycle not give way (shared/foot path)
+2
+$116
+Rule 251
+Bicycle not ride to left of oncoming bicycle on path
+2
+$116
+Rule 252 (1)
+Disobey no bicycles sign/road marking
+2
+$116
+Rule 253
+Bicycle rider moving into path of driver/pedestrian
+2
+$116
+Rule 254 (1)
+Ride on bicycle that is being towed
+5
+$349
+Rule 254 (2)
+Hold onto moving vehicle while riding bicycle
+5
+$349
+Rule 255
+Ride bicycle too close to rear of motor vehicle
+2
+$116
+Rule 256 (1)
+Rider not wear bicycle helmet/fitted/fastened
+5
+$349
+Rule 256 (2)
+Passenger not wear bicycle helmet/fitted/fastened
+5
+$349
+Rule 257 (1)
+Tow bicycle trailer with person in/on trailer 
+2
+$116
+Rule 258 (a)
+Ride bicycle without working brake
+2
+$116
+Rule 258 (b)
+Ride bicycle without working warning device
+2
+$116
+Page 6 of 12
+ As at 1 July 2020
+ The information in this document is intended as a guide only, and is subject to change at any time without notice.
+ It does not replace the relevant legislation.
+ * Increased fines and/or demerit points apply for these offences when committed in a school zone. See school zone offences list.
+Fine level
+Fine $
+Demerit 
+points
+General driving offences
+Double 
+demerits
+Penalty
+Description
+Law
+Rule 259 (a)
+Ride bicycle without visible front white light
+2
+$116
+Rule 259 (b)
+Ride bicycle without visible rear red light
+2
+$116
+Rule 259 (c)
+Ride bicycle without visible red reflector
+2
+$116
+Rule 260 (1)
+Proceed before allowed (red bicycle crossing light showing)
+2
+$116
+Rule 261 (1)
+Proceed before allowed (yellow bicycle crossing light showing)
+2
+$116
+Rule 262 (1)
+Not cross intersection safely (bicycle crossing lights)
+2
+$116
+Rule 262 (2)
+Not finish crossing road safely (bicycle crossing lights)
+2
+$116
+SEAT BELTS
+Rule 264
+Driver not wearing seatbelt",5,349,3
+Rule 265 (1),"Passenger occupy same seat as another (16 yrs or older)
+5
+$349
+Rule 265 (1)
+Passenger seatbelt not adjusted/fastened (16 yrs or older)
+5
+$349
+Rule 265 (1)
+Passenger not occupy seat with seatbelt (16 years or older)
+5
+$349
+Rule 265 (3)
+Drive with passenger 16 years or older unrestrained",5,349,3
+Rule 265 (3),Drive with 2 unrestrained passengers,8,697,6
+Rule 265 (3),Drive with 3 unrestrained passengers,10,"1,123",6
+Rule 265 (3),Drive with 4 or more unrestrained passengers,12,"1,472",6
+Rule 266 (1),Drive with passenger under 6 mths not in fastened/adjusted/approved restraint,5,349,3
+Rule 266 (1),Drive with passenger older than 6 mths but less than 4 yrs not restrained,5,349,3
+Rule 266 (1),Drive with passenger older than 4 yrs but less than 7 yrs not restrained,5,349,3
+Rule 266 (1),Drive with passenger less than 4 yrs in front row of vehicle (two or more rows),5,349,3
+Rule 266 (1),Drive with passenger 4 yrs or older but less than 7 yrs in front row of vehicle,5,349,3
+Rule 266 (1),Drive with passenger 7 yrs or older but less than 16 yrs not restrained,5,349,3
+Rule 267-1 (2)(a),Learner/P1/P2 driver passengers (16 years or older) not wear seatbelts,5,349,3
+Rule 267-1 (2)(a),Learner/P1/P2 driver passengers (16 years or older) seatbelts not fitted,5,349,3
+Rule 267-1 (2)(b),Learner/P1/P2 driver with passenger under 16 not restrained as age appropriate,5,349,3
+Rule 267-1 (3),"Passenger (16 or older) in seat restraint not fitted
+5
+$349
+Rule 267-1 (4)
+Passenger (16 or older) not wear seat belt properly
+5
+$349
+SAFETY
+Rule 268 (1)
+Travel in/on vehicle in part not for passengers/goods
+5
+$349
+Rule 268 (2)
+Travel in/on part of vehicle designed for carrying goods
+5
+$349
+Rule 268 (2)(b) 
+Ride in/on part of vehicle for goods wrong size no seatbelt
+5
+$349
+Rule 268 (3)
+Part of body outside vehicle window/door (driver)",5,349,3
+Rule 268 (3),"Part of body outside vehicle window/door (passenger)
+5
+$349
+Rule 268 (4)
+Drive with part of passengers body outside window/door",5,349,3
+Rule 268 (4A),Drive with passenger in/on part of vehicle not permitted,5,349,3
+Rule 268 (4B)(a),Drive with passenger in/on part of vehicle not enclosed,5,349,3
+Rule 268 (4B)(b),Drive with passenger in/on part of vehicle no seatbelt etc,5,349,3
+Rule 268-2 (1),"Travel in/on boot of motor vehicle
+5
+$349
+Rule 268-2 (2)
+Driver drive motor vehicle with person/s in/on boot",5,349,3
+Rule 268-3 (1),"Travel in unenclosed part of trailer
+5
+$349
+Rule 269 (1)
+Alight from moving vehicle
+5
+$349
+Rule 269 (3)
+Cause hazard to person/vehicle (door open/alighting)
+5
+$349
+Rule 269 (4)
+Drive moving bus with doors opened
+5
+$349
+Rule 298
+Tow trailer with person in/on trailer",5,349,3
+Rule 270 (1)(a),Ride motorcycle with no helmet (rider alone),5,349,3
+Rule 270 (1)(b),Ride motorcycle with one unhelmeted passenger,5,349,3
+Rule 270 (1)(b),Ride motorcycle with 2 unhelmeted passengers,8,697,6
+Rule 270 (1)(b),Ride motorcycle with 3 unhelmeted passengers,10,"1,123",6
+Rule 270 (1)(b),Ride motorcycle with 4 or more unhelmeted passengers,12,"1,472",6
+Rule 270 (1),Ride motorcycle with one unhelmeted passenger (rider not helmeted),8,697,6
+Rule 270 (1),Ride motorcycle with 2 unhelmeted passengers (rider not helmeted),10,"1,123",9
+Rule 270 (1),Ride motorcycle with 3 unhelmeted passengers (rider not helmeted),12,"1,472",9
+Rule 270 (1),Ride motorcycle with 4 or more unhelmeted passengers (rider not helmeted),13,"1,819",9
+Rule 270 (2),"Motorcycle passenger not wearing helmet
+5
+$349
+Rule 271 (1)(a)
+Not sit astride on motorcycle rider’s seat",5,349,3
+Rule 271 (1)(b),"Not ride motorcycle with hand on handlebars
+2
+$116
+Rule 271 (1)(c)
+Ride motorcycle in incorrect position
+2
+$116
+Rule 271 (2)(a)
+Not sit astride pillion seat
+5
+$349
+Rule 271 (2)(b)
+Feet not on pillion footrests
+2
+$116
+Rule 271 (2)(a)&(3)
+Passenger not sit astride pillion seat (rider)
+5
+$349
+Rule 271 (2)(b)&(3)
+Passenger’s feet not on pillion footrests (rider)
+2
+$116
+Rule 271 (4)
+Ride motorcycle with more than 1 passenger",5,349,3
+Rule 271 (5),Exceed number of passengers in motorcycle sidecar,5,349,3
+Rule 271 (5A),Ride motor bike with passenger under 8 years not in sidecar,5,349,3
+Rule 271 (5B),"Motor bike passenger in sidecar not safely seated
+5
+$349
+Rule 271 (5C)
+Rider carry passenger not safely seated in sidecar",5,349,3
+Rule 271-1 (1),Carry passenger on motor bike (licensed for less than 12 months),5,349,3
+Rule 271-2 (1),Drive car-based motor tricycle with under 16 year passenger,5,349,3
+Rule 272 (a),"Passenger interfere with driver's control of vehicle
+2
+$116
+Rule 272 (b)
+Passenger obstruct driver's view
+2
+$116
+T & B LIGHTS
+Rule 274
+Not stop on red T light",6,464,3
+Rule 275,Not stop on yellow T light,6,464,3
+Rule 277,Proceed before allowed after stop on red/yellow T Light,6,464,3
+Rule 279 (2),Proceed before allowed after stop on white T light/arrow,6,464,3
+Rule 279 (3),Not leave intersection safely (white T light/arrow),6,464,3
+Rule 281,Not stop on red B light,6,464,3
+Rule 282,Not stop on yellow B light,6,464,3
+Rule 284,Proceed before allowed after stop on red/yellow B light,6,464,3
+Rule 286 (2),Proceed before allowed after stop on white B light/arrow,6,464,3
+Rule 286 (3),Not leave intersection safely (white B light/arrow),6,464,3
+Rule 287 (1)&(2)(a),Not give particulars to other driver,5,349,3
+Rule 287 (1)&(2)(b),Not give particulars to injured person,5,349,3
+Rule 287 (1)&(2)(c),Not give particulars to owner of damaged property,5,349,3
+Rule 287 (1)&(3),Not give particulars to police,5,349,3
+Rule 288 (1),Drive on path*,5,349,3
+Rule 288 (4),Driver not give way to user/animal on path*,5,349,3
+Rule 289 (1),Drive on nature strip*,5,349,3
+Rule 289 (2),Driver not give way to user/animal on nature strip*,5,349,3
+Rule 290,Drive on traffic island*,5,349,3
+Rule 291,Start/drive vehicle causing unnecessary noise/smoke,5,349,3
+Rule 291-1 (1),"Not stop engine of stationary vehicle
+3
+$194
+Rule 291-2
+Driver not prevent waste oil/grease dropping on roadway
+3
+$194
+Rule 292 (a)
+Drive/tow vehicle with unsecured load",6,464,3
+Rule 292 (b),Drive/tow vehicle with load causing instability,6,464,3
+Rule 292 (c),Drive/tow vehicle with overhanging load,6,464,3
+Rule 293 (2),Not remove/have removed any thing fallen/put on road,6,464,3
+Rule 294 (1)(a)(i),Tow without control of towed vehicle,6,464,3
+Rule 294 (1)(a)(ii),Towed vehicle not in order/with licensed person/in control,6,464,3
+Rule 294 (1)(b),Tow vehicle when unsafe,6,464,3
+Rule 294 (2)(a),Tow without control of trailer,6,464,3
+Rule 294 (2)(b),Tow trailer when unsafe,6,464,3
+Rule 294-1 (1)(a),Articulated vehicle tow other vehicle,6,464,3
+Rule 294-1 (1)(b),Motor vehicle tow more than one vehicle,6,464,3
+Rule 294-1 (1)(b),"Use/cause towed vehicle/trailer exceed maximum laden weight (non-driver)
+6
+$464
+Rule 294-2 (1)(a)
+Towed vehicle/trailer exceed towing capacity",6,464,3
+Rule 294-2 (1)(b),Towed vehicle/trailer exceed maximum laden weight,6,464,3
+Rule 294-3 (1)(a),"Not keep required distance (towing with towline)
+2
+$116
+Rule 294-3 (1)(b)(i)
+Not have licensed driver in control of towed vehicle
+2
+$116
+Rule 294-3 (1)(b)(ii)
+Tow vehicle without authorisation/not comply with authorisation
+2
+$116
+Rule 294-3 (1)(c)
+Not display hoisting capacity
+2
+$116
+Rule 294-3 (1)(c)
+Not have lift equipment approved by Authority
+2
+$116
+Rule 294-3 (1)(c)
+Not interconnect brakes with braking system of tow truck
+2
+$116
+Rule 294-3 (1)(c)
+Not release weight of towed vehicle from lifting device
+2
+$116
+Rule 294-3 (1)(d)
+Drive vehicle tow motor bike not as prescribed
+2
+$116
+Rule 294-3 (1)(e)
+Not display warning flag as required
+2
+$116
+Rule 294-3 (1)(f)
+Not have proper lighting on towed vehicle
+2
+$116
+Rule 294-3 (1)(g)
+Tow non-mechanical vehicle not fastened as prescribed
+2
+$116
+REVERSING
+Rule 296 (1)
+Not reverse vehicle safely*",3,194,2
+Rule 296 (2),"Reverse vehicle further than necessary
+2
+$116
+VIEW & CONTROL
+Rule 297 (1)
+Drive without proper control of vehicle*",6,464,3
+Rule 297 (2),Drive vehicle without clear view*,5,349,3
+Rule 297 (3),Ride with animal between rider and handle bars*,6,464,3
+Rule 297 (1A),Drive motor vehicle with person or animal in lap*,6,464,3
+Rule 299 (1)(a),Drive vehicle with TV/VDU image visible to driver*,5,349,3
+Rule 299 (1)(b),"Drive vehicle with TV/VDU image likely to distract another driver
+5
+$349
+Rule 300
+Drive using mobile phone when not permitted (not L, P1 or P2)*",5,349,5
+Rule 300-1,Learner or Provisional driver use mobile phone while driving*,5,349,5
+Rule 298-1,Driver consume alcohol while driving,5,349,3
+Rule 300-2 (1),"Drive dangerous goods transporter in prohibited area
+6
+$464
+Rule 300-4 (1)
+Drive school bus without displaying signs
+5
+$349
+Rule 300-5
+Drive motor vehicle not carry licence
+2
+$116
+Rule 316-2 (1)
+Unlawfully display turning vehicle sign
+3
+$194
+ANIMALS
+Rule 301 (1)
+Lead animal while driving vehicle
+1
+$78
+Rule 301 (2)
+Passenger lead animal while vehicle is moving
+1
+$78
+Rule 301 (3)
+Bicycle rider lead animal when not permitted
+1
+$78
+Rule 302
+Not give way when riding animal on footpath/nature strip
+1
+$78
+Rule 303 (1)
+Ride animal more than 2 abreast (not multi-lane road)
+1
+$78
+Rule 303 (2)
+Ride animal more than 2 abreast (marked lane)
+1
+$78
+Rule 303 (4)
+Ride animal more than 1.5m from another rider
+1
+$78
+DIRECTIONS
+Rule 304 (1)
+Not obey direction of police/authorised person",5,349,3
+Rule 316-2 (1),"Display do not overtake turning vehicle sign when less than 7 1/2 metres
+3
+$194
+CLASS B or C VEHICLES IN SAFE-T-CAM OR AVERAGE SPEED DETECTION ZONES
+Rule 127 (1)
+Long vehicle not required distance from other long vehicle",11,"1,393",4
+Rule 132 (1),Not keep left of centre on two-way road,11,"1,393",4
+Rule 132 (2),Not keep left of dividing line,11,"1,393",4
+Rule 146 (1),Not drive within marked lane multi-lane road,11,"1,393",4
+Rule 146 (2),Not drive within single line of traffic (no lines marked),11,"1,393",4
+Rule 147,Move from marked lane to another across continuous line,11,"1,393",4
+Rule 150 (1),Drive on/over continuous white edge line,11,"1,393",4
+Rule 215-1 (1),Drive during period of darkness without prescribed lights,11,"1,393",4
+Rule 27 (1),"Not turn left from far left side of road
+2
+$116
+Rule 28 (1)
+Not turn left from multi-lane road from within left lane
+2
+$116
+Rule 28 (1A)
+Not turn left from slip lane from multi-lane road
+2
+$116
+Rule 28 (2A)
+Bike rider not enter from left marked lane-bike storage area
+2
+$116
+Rule 29
+Turn left contrary to road marking
+2
+$116
+Rule 31 (4A)
+Bike rider not enter intersection from left of/parallel to/as near to dividing line/strip
+2
+$116
+RIGHT TURN AT INTERSECTIONS
+Rule 31 (4A)
+Bike rider not enter one-way road from far right
+2
+$116
+Rule 31 (4A)
+Bike rider not turn right from left of/parallel to/as near to dividing line/strip
+2
+$116
+Rule 31
+Not turn right from left of line/strip correctly
+2
+$116
+Rule 31 
+Not turn right from left of centre of road correctly
+2
+$116
+Rule 31 
+Not turn right from far right side of one-way road
+2
+$116
+Rule 32 (1)
+Not turn right from multi-lane road from within right lane
+2
+$116
+Rule 32 (2A)
+Not enter intersection from bike storage area - turning right
+2
+$116
+Page 8 of 12
+ As at 1 July 2020
+ The information in this document is intended as a guide only, and is subject to change at any time without notice.
+ It does not replace the relevant legislation.
+ * Increased fines and/or demerit points apply for these offences when committed in a school zone. See school zone offences list.
+Fine level
+Fine $
+Demerit 
+points
+General driving offences
+Double 
+demerits
+Penalty
+Description
+Law
+Rule 33 (1)&(2)
+Turn right contrary to road marking
+2
+$116
+Rule 33 (1)&(3)
+Not turn right near to right of centre of intersection
+2
+$116
+Rule 35 (2)
+Bicycle rider not make hook turn as prescribed
+2
+$116
+TRAFFIC CONTROL LIGHTS
+Rule 56 (1)(a)
+Not stop at stop line at red light
+6
+$464
+Rule 56 (1)
+Not stop at red light - toll booth
+3
+$194
+Rule 56 (1)(b)
+Not stop before stop sign at red light 
+6
+$464
+Rule 56 (1)(c)
+Not stop before lights at red light
+6
+$464
+Rule 56 (2)(a)
+Not stop at stop line at red arrow
+6
+$464
+Rule 56 (2)(b)
+Not stop before stop sign at red arrow 
+6
+$464
+Rule 56 (2)(c)
+Not stop before lights at red arrow
+6
+$464
+Rule 59 (1)
+Proceed through red traffic light - toll booth
+3
+$194
+Rule 59 (1)
+Proceed through red traffic light
+6
+$464
+CROSSINGS & SHARED ZONES
+Rule 80 (1)
+Approach children’s crossing too quickly to stop safely
+6
+$464
+Rule 80 (2)(a)
+Disobey hand-held stop sign at children’s crossing
+6
+$464
+Rule 80 (2)(b)
+Not stop at children’s crossing-pedestrian on crossing
+6
+$464
+Rule 80 (3)(a)
+Proceed at children’s crossing while sign shown
+6
+$464
+Rule 80 (3)(b)
+Proceed at children’s crossing contrary to directions
+6
+$464
+Rule 80 (4)
+Proceed at children’s crossing-pedestrian at crossing
+6
+$464
+Rule 81 (1)
+Approach pedestrian crossing too quickly to stop safely
+6
+$464
+Rule 81 (2)
+Not give way to pedestrian on pedestrian crossing
+6
+$464
+Rule 82
+Pass/overtake vehicle at pedestrian/children’s crossing
+6
+$464
+Rule 83
+Not give way to pedestrian in shared zone
+2
+$116
+TRAFFIC SIGNS & ROAD MARKINGS
+Rule 88 (1)
+Disobey left turn only sign
+2
+$116
+Rule 88 (2)
+Disobey left lane must turn left sign
+2
+$116
+Rule 89 (1)
+Disobey right turn only sign
+2
+$116
+Rule 89 (2)
+Disobey right lane must turn right sign
+2
+$116
+Rule 90
+Disobey no turns sign
+2
+$116
+Rule 91 (1)
+Disobey no left turn sign
+2
+$116
+Rule 91 (2)
+Disobey not right turn sign
+2
+$116
+Rule 92 (1)
+Drive contrary to direction of traffic lane arrow
+2
+$116
+Rule 98 (1)
+Disobey one-way sign
+2
+$116
+Rule 99 (1)
+Disobey keep left sign
+2
+$116
+Rule 99 (2)
+Disobey keep right sign
+2
+$116
+Rule 100
+Disobey no entry sign
+2
+$116
+KEEPING LEFT
+Rule 129 (1)
+Not drive on far left side of road
+2
+$116
+Rule 130 (1)(a)&(2) 
+Drive in right lane on road with speed-limit over 80 km/h
+2
+$116
+Rule 130 (1)(b)&(2)
+Disobey keep left unless overtaking sign
+2
+$116
+Rule 131
+Not keep left of oncoming vehicle
+2
+$116
+Rule 132 (1)
+Not keep left of centre on two-way road
+2
+$116
+Rule 132 (2)
+Not keep left of dividing line
+2
+$116
+Rule 135 (1)
+Not keep left of median strip
+2
+$116
+Rule 137 (1)
+Drive on dividing strip
+2
+$116
+Rule 138 (1)
+Drive on/over continuous line near painted island
+2
+$116
+Road Transport Act 2013
+UNLICENSED DRIVER - INAPPROPRIATE CLASS OF LICENCE
+Class C, Class R, Class LR or Class MR licence
+Sec 53 (1)(a)
+Unlicensed driver/rider (1st offence within last 5 years)
+7
+$581
+Sec 53 (1)(a)
+Unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+9
+$890
+Class HR, Class HC or Class MC licence
+Sec 53 (1)(a)
+Unlicensed driver/rider (1st offence within last 5 years)
+8
+$697
+Sec 53 (1)(a)
+Unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+11
+$1,393
+OTHER STATE OR TERRITORY LICENCE
+Sec 53 (1)(a)
+Unlicensed driver/rider (1st offence within last 5 years)
+7
+$581
+Sec 53 (1)(a)
+Unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+9
+$890
+EXPIRED LICENCE - LESS THAN 2 YEARS
+Sec 53 (1)(a)
+Unlicensed driver/rider (1st offence within last 5 years)
+7
+$581
+Sec 53 (1)(a)
+Unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+9
+$890
+EXPIRED LICENCE - MORE THAN 2 YEARS
+Sec 53 (1)(a)
+Unlicensed driver/rider (1st offence within last 5 years)
+8
+$697
+Sec 53 (1)(a)
+Unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+11
+$1,393
+NEVER HELD A LICENCE
+Sec 53 (3)
+Unlicensed driver/rider
+9
+$890
+PERMIT UNLICENSED DRIVER INAPPROPRIATE CLASS OF LICENCE
+Class C, Class R, Class LR or Class MR licence
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (1st offence within last 5 years)
+7
+$581
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+9
+$890
+Class HR, Class HC or Class MC licence
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (1st offence within last 5 years)
+8
+$697
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+11
+$1,393
+OTHER STATE OR TERRITORY LICENCE
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (1st offence within last 5 years)
+7
+$581
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+9
+$890
+EXPIRED LICENCE - LESS THAN 2 YEARS
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (1st offence within last 5 years)
+7
+$581
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+9
+$890
+EXPIRED LICENCE - MORE THAN 2 YEARS
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (1st offence within last 5 years)
+8
+$697
+Sec 53 (1)(b)
+Permit unlicensed driver/rider (2nd or subsequent offence within last 5 years)
+11
+$1,393
+NEVER HELD A LICENCE
+Sec 53 (1)(b)
+Permit unlicensed driver/rider
+9
+$890
+FRAUDULENT USE OF LICENCE
+Sec 50 (a)
+Unlawfully possess Australian driver licence
+9
+$890
+Sec 50 (b)
+Unlawfully possess article like Australian driver licence
+9
+$890
+UNREGISTERED AND UNINSURED VEHICLES
+Page 9 of 12
+ As at 1 July 2020
+ The information in this document is intended as a guide only, and is subject to change at any time without notice.
+ It does not replace the relevant legislation.
+ * Increased fines and/or demerit points apply for these offences when committed in a school zone. See school zone offences list.
+Fine level
+Fine $
+Demerit 
+points
+General driving offences
+Double 
+demerits
+Penalty
+Description
+Law
+Sec 68 (1)
+Use unregistered vehicle on road/area
+8
+$697
+Sec 68 (1)
+Use unregistered vehicle on road/area (heavy vehicle)",12,"1,472",4

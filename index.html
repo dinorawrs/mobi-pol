@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ID Extractor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background: #f4f4f4;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-bottom: 10px;
+      cursor: pointer;
+    }
+    img {
+      max-width: 100%;
+      display: none;
+      margin-bottom: 10px;
+    }
+    input {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Paste ID Image from Clipboard</h2>
+  <button onclick="handlePaste()">📋 Paste Image</button>
+  <img id="preview" />
+
+  <form>
+    <label>Display Name:</label>
+    <input id="display">
+    <label>Username:</label>
+    <input id="username">
+    <label>ID No.:</label>
+    <input id="date">
+    <label>Address:</label>
+    <input id="address">
+  </form>
+<h2>Issue Fine</h2>
+<input type="text" id="fineSearch" placeholder="Search fines..." onkeyup="filterFines()" />
+<select id="fineList" multiple style="width: 100%; height: 150px; margin-top: 5px;"></select>
+
+<!-- Police Statement Generator -->
+<h2 style="margin-top: 30px;">Generate Police Statement</h2>
+<button onclick="generateStatement()">📄 Generate Statement</button>
+<textarea id="statementOutput" placeholder="Your police statement will appear here..." style="width: 100%; height: 200px; margin-top: 10px;"></textarea>
+
+  <script src="https://cdn.jsdelivr.net/npm/tesseract.js@4"></script>
+  <script src="script.js"></script>
+	
+</body>
+</html>
